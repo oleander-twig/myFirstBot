@@ -1,7 +1,7 @@
 from telebot import TeleBot
 from telebot import types
 from kinopoisk.movie import Movie
-TOKEN = "1870142382:AAExTOwDhOfaJkyKydFKF9v3bdvBtEBJEMI"
+TOKEN = ""
 bot = TeleBot(TOKEN)
 movieName = ''
 references = dict()
